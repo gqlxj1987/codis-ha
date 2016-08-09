@@ -3,7 +3,7 @@
 
 Usage:
 
-go get github.com/ngaut/codis-ha
+go get github.com/gqlxj1987/codis-ha
 
 
 cd codis-ha
